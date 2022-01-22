@@ -10,7 +10,7 @@
 
 How to use the modpack in 10 steps
 
-```bash
+```
   1> Click on Code, then click on Download ZIP
   2> Press Windows + R and type "%AppData%
   3> Go to Roaming/.minecraft, keep you window open
